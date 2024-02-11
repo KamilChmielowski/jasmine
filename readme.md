@@ -1,12 +1,15 @@
-# Jasmine code coverage reports: Kamil Chmielowski
+# Kamil Chmielowski: Jasmine code coverage reports
 
-Multi-repo for jasmine unit tests.
+Repository for jasmine unit tests.
 
 ## Projects
 
-* Curriculum vitae (https://kamilchmielowski-dev.web.app/)
+### Curriculum vitae 
 
-### Contact with me
+* Project: https://kamilchmielowski-dev.web.app/
+* Unit tests: https://kamilchmielowski-cv-unit-tests.web.app/
+
+## Contact with me
 
 * +48 459 413 344
 * kamilchmielowski94@gmail.com
