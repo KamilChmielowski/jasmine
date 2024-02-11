@@ -1,7 +1,7 @@
 {
   "hosting": {
-    "site": "cv-unit-tests",
-    "public": "app",
+    "site": "kamilchmielowski-cv-unit-tests",
+    "public": "project",
     "ignore": [
       "firebase.json",
       "**/.*",
