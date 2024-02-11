@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "cv-unit-tests",
+    "public": "app",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
